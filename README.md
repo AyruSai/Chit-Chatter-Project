@@ -13,6 +13,7 @@ A peer-to-peer chat app using WebRTC and modern web tech — forked from [Chitch
 ```bash
 npm install
 npm run dev
+```
 
 ## Project status
 

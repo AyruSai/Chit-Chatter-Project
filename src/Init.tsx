@@ -38,7 +38,7 @@ const Init = ({ getUuid = uuid, ...props }: InitProps) => {
         setUserSettings({
           userId: getUuid(),
           customUsername: '',
-          colorMode: ColorMode.DARK,
+          colorMode: ColorMode.LIGHT,
           playSoundOnNewMessage: true,
           showNotificationOnNewMessage: true,
           showActiveTypingStatus: true,
